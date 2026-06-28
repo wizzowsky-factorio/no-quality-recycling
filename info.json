@@ -6,7 +6,7 @@
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1",
-    "recycling >=2.1",
+    "recycler >=2.1",
     "quality >=2.1",
     "space-age >= 2.1"
   ],
