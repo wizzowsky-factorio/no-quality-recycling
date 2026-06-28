@@ -1,0 +1,9 @@
+{
+  "name": "no-quality-recycling",
+  "version": "0.1.0",
+  "title": "No Quality Recycling",
+  "author": "Wizzowsky",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1"],
+  "description": "This mod disables the ability to use quality in recyclers and does a compensation buff in the quality chance in the modules to compensate."
+}
