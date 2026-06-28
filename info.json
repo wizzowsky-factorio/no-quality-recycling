@@ -4,6 +4,11 @@
   "title": "No Quality Recycling",
   "author": "Wizzowsky",
   "factorio_version": "2.1",
-  "dependencies": ["base >= 2.1"],
+  "dependencies": [
+    "base >= 2.1",
+    "quality >=2.1",
+    "space-age >= 2.1"
+  ],
+  "quality_required": true,
   "description": "This mod disables the ability to use quality in recyclers and does a compensation buff in the quality chance in the modules to compensate."
 }
