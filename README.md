@@ -8,9 +8,3 @@ To keep things at a similar/scale as what is possible in vanilla Factorio the qu
 
 1. **Removes quality from recyclers.** Quality modules can no longer be inserted into a recycler.
 2. **Rebalances quality modules.** Quality module rates are adjusted to compensate for the loss of recycler-based quality, with the goal of roughly matching vanilla's overall pace of acquiring high-quality items.
-
-## Compatibility
-
-- **Factorio version:** 2.0+
-- **Required:** `base >= 2.0`  (Space Age expansion required, since recyclers and quality come from the expansion)
-- **Other mods:** This mod targets vanilla interactions only and does not attempt to handle conflicts with mods that add their own recyclers, quality modules, or quality tiers.

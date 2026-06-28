@@ -1,0 +1,1 @@
+data.raw["furnace"]["recycler"].allowed_effects = {"consumption", "speed", "pollution"}
